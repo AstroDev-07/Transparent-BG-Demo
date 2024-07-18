@@ -49,7 +49,7 @@ class PlayState extends FlxState
 				dialogText.text = dialog[dialogIndex];
 			}
 			if(dialogIndex == 2){
-				makeStageTrans(); // TRANSFORMERS NO WAY :SHOCK:
+				makeStageTrans(); 
 			}
 			if(dialogIndex == 4){
 				#if neko
